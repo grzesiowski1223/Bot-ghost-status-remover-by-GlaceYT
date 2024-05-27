@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["SendIt","Join our Team!"];
+const statusMessages = ["🚗SendIt🛻","➡️🏆Join our Team!🏆⬅️"];
 
 
 let currentIndex = 0;
